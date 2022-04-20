@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/scrl"
+    android:background="#D6FDD6"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1000dp"
+        android:padding="5dp">
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/slider"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="74dp"
+            android:layout_marginBottom="-71dp"
+            android:fontFamily="cursive"
+            android:text="Catégories"
+            android:textColor="@color/Darkgreen"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/viewpagerhethalasleni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="6dp"
+            android:layout_marginBottom="-330dp">
+
+
+        </androidx.viewpager2.widget.ViewPager2>
+
+        <include
+
+            android:id="@+id/tt"
+            layout="@layout/toolbar"
+            android:layout_width="508dp"
+            android:layout_height="39dp"
+            tools:layout_editor_absoluteX="-96dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/slider"
+            android:layout_width="406dp"
+            android:layout_height="237dp"
+
+            android:layout_below="@+id/tt"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/bjround"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+
+        </com.daimajia.slider.library.SliderLayout>
+
+    </RelativeLayout>
+</ScrollView>

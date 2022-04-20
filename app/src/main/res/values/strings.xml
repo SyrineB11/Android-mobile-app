@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"> Aggricus </string>
+    <string name="todo">TODO</string>
+    <string name="text">           Tapez sur l\'écran pour continuer</string>
+    <string name="todoo">TODO</string>
+    <string name="register">   Inscription  </string>
+    <string name="naaame">Nom et prénom </string>
+    <string name="na">Adresse Mail</string>
+    <string name="textaa">Mot de passe</string>
+    <string name="hola">s\'inscrire</string>
+    <string name="title_activity_mainn_pagee">MainnPagee</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="connectez_vous">Connectez vous</string>
+    <string name="d_j_inscrit">déjà inscrit ? |</string>
+    <string name="insrivez_vous">insrivez vous</string>
+    <string name="vous_n_tes_pas_inscrit">vous n\'êtes pas inscrit? |</string>
+    <string name="agg">Aggricus est une plateforme en ligne de commercialisation des produits agricoles, locaux et artisanaux tunisiens, mise en œuvre dAggricus est une plateforme en ligne de commercialisation des produits agricoles, locaux et artisanaux tunisiens, mise en œuvrans le cadre d\'un accord de coopération entre le Pôle Technologique de Minoua et l\'Organisation pour l\'Agriculture et l\'Alimentation.</string>
+    <string name="digitaliser_la_vente_des_produits_agricoles_locaux_et_artisanaux_faciliter_l_acc_s_aux_march_s_locaux_et_internationaux_et_industrie_du_contenu_num_rique_pour_promouvoir_les_marques_tunisiennes">Digitaliser la vente des produits agricoles, locaux et artisanaux , Faciliter l\'accès aux marchés locaux et internationaux et Industrie du contenu numérique pour promouvoir les marques tunisiennes.</string>
+    <string name="nos_principes">Nos Principes :</string>
+    <string name="aggricustaarif"> L\'assurance qualité des produits est une nécessité, pas une option </string>
+    <string name="todooooo">TODO</string>
+    <string name="ayyyyyy">Qu\'est ce que est Aggricus ?</string>
+    <string name="clickez">clickez</string>
+    <string name="todoooooooooooooo">TODO</string>
+    <string name="produits_artisanaux">Produits artisanaux</string>
+    <string name="artisanat_port_e_de_main">artisanat à portée de main</string>
+    <string name="plantes_aromatiques_et_m_dicinales">Plantes aromatiques et médicinales</string>
+
+</resources>
